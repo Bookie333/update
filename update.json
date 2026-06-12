@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://example.com/OnlyFiveM.exe",
-  "message": "Yeni surum mevcut. Lutfen guncelleyin.",
+  "version": "1.0.1",
+  "download_url": "https://github.com/Bookie333/update/releases/download/v1.0.1/OnlyFiveM.exe",
+  "message": "Test guncellemesi: v1.0.1 yayinlandi. Lutfen indirip kurun.",
   "mandatory": true
 }
